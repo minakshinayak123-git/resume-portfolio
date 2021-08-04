@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Minakshi Nayak",
+    "occupation": "Developer of Mindtree",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Minakshi! I've been overall 10 years of experince in Automation developer and started Full developer coding for over 4 years now. As a React developer I've worked both with freelancer and large corporations to help build & scale their companies.Prior to 4 years,I have been worked for Automation developer (QA background) . Along the journey I realised my passion existed in development and so i have started my development journey on 2018. I have been developing different portfolio projects. Also learning and developing my skills by refering different youtube videos such as PapaReact.",
+    "contactmessage": "Get in touch with me!",
+    "email": "minakshiknayak@gmail.com",
+    "phone": "+91 7829067796",
+    "address": {
+      "street": "3rd main , Global meadow apartment",
+      "city": "Bangalore",
+      "state": "karnataka",
+      "zip": "560098"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCDqnqgsYfFX2cklaej5oD0Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/minakshikumari.nayak/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/minakshi-nayak-953ab728/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/minakshinayak123-git",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Samanth chandra sekhar institute of technology and management",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2010",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mindtree Limited",
+        "title": "React JS Developer",
+        "years": "Jun 2017 - Present",
+        "description": "Developing portfolios as much as possible and cloning apps from youtube.Building the portfolio projects as much as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+
+    "projects": [
+      {
+        "title": "Budding Artist App (React JS)",
+        "category": "",
+        "image": "buddingartist.jpg",
+        "url": "https://buddingartistapp.herokuapp.com/"
+      },
+      {
+        "title": "Covid Tracker App (React JS)",
+        "category":"",
+        "image":"covid.jpg",
+        "url":"https://78e9c955.covid-tracker.pages.dev/"
+      },
+      {
+        "title": "WhatsApp-2 Clone (Next JS)",
+        "category": "",
+        "image": "whatsapp.jpg",
+        "url": "https://whatsapp-v2-one.vercel.app/"
+      },
+      {
+        "title": "Slack-2 Clone (React JS)",
+        "category": "",
+        "image": "slack.jpg",
+        "url": "https://slack-clone-yt-d2aee.web.app/"
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Minakshi is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Minakshi has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
